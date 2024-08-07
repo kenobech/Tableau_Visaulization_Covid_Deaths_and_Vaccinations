@@ -1,11 +1,11 @@
 # Tableau_Visaulization_Covid_Deaths_and_Vaccinations
-# Introduction
+## Introduction
 This project aims to visualize COVID-19 deaths and vaccinations data using Tableau. The visualization provides insights into the global impact of COVID-19, including death rates, vaccination progress, and population infection rates.
-# Dataset
+## Dataset
 The dataset used for this project is sourced from [Our World in Data](https://ourworldindata.org/covid-deaths)
-# Tableau_Visualizations
+## Tableau_Visualizations
 The Tableau dashboard and visualizations for this project can be accessed [here](https://public.tableau.com/app/profile/ken.obech/viz/CovidDataVisualization_17120268197580/Dashboard1)
-# SQL_Querries
+## SQL_Querries
 The following steps were used in preparing the data for visualisation using SQL
 Total COVID Cases and Deaths by Continent
 
